@@ -484,6 +484,17 @@
     <Content Include="Image\Shop\Shop_04.jpg" />
     <Content Include="Image\Shop\Shop_05.jpg" />
     <Content Include="Image\Shop\Shop_06.jpg" />
+    <Content Include="Image\User\State=login-default.png" />
+    <Content Include="Image\User\User1.png" />
+    <Content Include="Image\User\User10.png" />
+    <Content Include="Image\User\User2.png" />
+    <Content Include="Image\User\User3.png" />
+    <Content Include="Image\User\User4.png" />
+    <Content Include="Image\User\User5.png" />
+    <Content Include="Image\User\User6.png" />
+    <Content Include="Image\User\User7.png" />
+    <Content Include="Image\User\User8.png" />
+    <Content Include="Image\User\User9.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
